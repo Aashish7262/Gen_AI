@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 model = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash", 
-    google_api_key="AIzaSyBCQEQRT-ETQmNtdXik9fEm236WB3i1440"
+    google_api_key=""
 )
 prompt = PromptTemplate(
     template = 'Write a poem obout {topic}',
