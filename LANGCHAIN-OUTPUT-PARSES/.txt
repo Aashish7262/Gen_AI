@@ -1,0 +1,16 @@
+Output parses 
+
+output parses help the raw llm models to convert the response into stuctured formats like JSON , CSV , Pydantic models and more. They ensure consistency , validation and ease of use in application
+
+OUTPUT PARSES TYPES
+1 stroutputParses 
+2 JSONOutput
+3 StructuredOutput
+4 
+
+StroutputParser
+The strOutputParser is the simplest output parser in langchain. it is used to parse the output of a language model LLM and return it as a plain string
+
+USECASES 
+why stroutputparser ? but not result.context 
+topic -> LLM -> detailed report - > LLM -> 5 lines summary 

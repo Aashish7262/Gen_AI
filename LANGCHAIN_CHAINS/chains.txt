@@ -1,0 +1,12 @@
+What & why?
+ Chains are used for making the pipelines 
+ input -> model1 -> model2 -> model3->. .... -> output 
+
+ input -> model1 -> output
+ input -> model2 -> output 
+Types of chain
+ 1 sequential Chains
+ 2 parallel Chains
+ 3 conditional Chains
+
+

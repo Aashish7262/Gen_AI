@@ -1,0 +1,9 @@
+venv/
+.venv/
+.vscode/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+LANGCHAIN-DOCUMENT-LOADERS/books/Undertaking_Aashish_Rohada.pdf

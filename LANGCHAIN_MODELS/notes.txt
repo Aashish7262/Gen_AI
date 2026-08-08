@@ -1,0 +1,13 @@
+# closed source models 
+# open source models  -> we are downloading models into our machines and using them 
+ LLaMA-2-7B/13B/70B
+ Mixtral-8x7B
+ Mistral-70BFalcon-7B/40B
+ where to download these models ? 
+ HuggingFace 
+
+## prompts 
+prompts are the input instruction or queries given to a model to guide its output 
+prompts are of  two types 
+text-based  
+multi-modal -> images , sound , video 
