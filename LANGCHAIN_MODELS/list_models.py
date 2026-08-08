@@ -2,7 +2,7 @@ import google.generativeai as genai
 import os
 
 # Replace with your actual key or ensure your ENV variable is set
-api_key = os.getenv("AIzaSyDtQqMSJbp_ZAHMq3MQgCG_YdrXFxXusqY") 
+api_key = os.getenv("") 
 genai.configure(api_key=api_key)
 
 print("--- Models available for your API Key ---")
